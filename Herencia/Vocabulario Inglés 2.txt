@@ -1,0 +1,26 @@
+
+****************NetBeans****************
+
+
+Graphics: gráficos
+Threads: hilos
+Widt: hancho
+heigth: alto
+Draw:  dibujar
+Character: carácter, personaje
+Throws: lanzar, arrojar
+File: archivo,expediente
+Found: encontrado, fundar
+Exception: excepción
+Over: terminar
+Flow: fluir
+Background: fondo
+Contain: contener
+Cover: cubrir
+
+
+
+set: establecer
+get: obtener, conseguir
+
+
